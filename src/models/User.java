@@ -1,12 +1,7 @@
 package models;
 
 /**
- * Created by tom on 10/03/15.
- *
- * @author Tom Williams thomas.williams@eysys.com
+ * Created by billjones on 10/03/15.
  */
 public class User {
-
-  private String email;
-
 }
